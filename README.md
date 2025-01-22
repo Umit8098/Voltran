@@ -29,7 +29,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-- Todo App Authenticate
+- Voltran
 ![screenshot](project_screenshot/Voltran.gif)
 
 ---
@@ -42,11 +42,8 @@
 - CSS
 
 ## About This Project
-- Pizza Ordering Application
+- Voltran
 
-<hr>
-
-- Pizza Ordering Application
 
 ## Contact
 
