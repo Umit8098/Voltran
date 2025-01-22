@@ -23,6 +23,7 @@
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Built With](#built-with)
+- [How To Use](#how-to-use)
 - [About This Project](#about-this-project)
 - [Contact](#contact)
 
@@ -40,6 +41,20 @@
 
 - HTML
 - CSS
+
+## How To Use
+
+<!-- This is an example, please update according to your application -->
+
+To clone and run this application, you'll need [Git](https://github.com/Umit8098/Voltran)
+
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Umit8098/Voltran.git
+
+```
+
 
 ## About This Project
 - Voltran
